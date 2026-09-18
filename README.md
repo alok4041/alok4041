@@ -22,18 +22,28 @@
 - CSS3
 - JavaScript (ES6+)
 - Java
+- MySql
+  
 
 ### Frontend
 - Responsive Web Design
 - DOM Manipulation
 - API Integration
 - Event Handling
+- Working on React technology 
 
+### Backend
+- Exploring java
+- Concept of OPPS
+- Express js
+- Node js
+- 
 ### Tools
 - Git & GitHub
 - VS Code
 - Netlify
 - Vercel
+- Eclipse
 
 ---
 
